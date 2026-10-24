@@ -1,4 +1,4 @@
-# enshrouded_dedicated_server_scripts
+# Enshrouded Dedicated Server Scripts
 An automated Enshrouded dedicated server manager featuring auto-updates via SteamCMD, player-triggered automatic wake-ups, and a background watchdog script that suspends the server when idle to save system resources.
 
 This are two scripts for running an Enshrouded Dedicated Server, which also "fix" the lack of a feature to pause the server when no one is connected.
